@@ -25,7 +25,7 @@ import (
 	"log"
 	"time"
 
-	_ "github.com/grpc-learn/grpc-reslover/simple-resolver"
+	_ "github.com/rongwj/grpc-learn/grpc-reslover/simple-resolver"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/balancer/roundrobin"
 	pb "google.golang.org/grpc/examples/helloworld/helloworld"

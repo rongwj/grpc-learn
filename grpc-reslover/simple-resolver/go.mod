@@ -1,4 +1,4 @@
-module github.com/grpc-learn/grpc-reslover/simple-resolver
+module github.com/rongwj/grpc-learn/grpc-reslover/simple-resolver
 
 go 1.15
 
